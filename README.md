@@ -2,7 +2,7 @@
 - 👀 I’m interested in Data Engineering
 - 🌦 I’m currently learning Awk, Apache Airflow
 - 🤓 I’m looking to collaborate on ELT projects
-- 📠 How to reach me ...
+- 💬 How to reach me ...
 
 <!---
 francklays/francklays is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
