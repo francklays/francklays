@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @francklays
-- 👀 I’m interested in data
-- 🌦 I’m currently learning baking
+- 🌦 I’m interested in data
+- 🍞 I’m currently learning baking
 - 💬 How to reach me ...
 
 <!---
