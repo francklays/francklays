@@ -1,7 +1,4 @@
-- 👋 Hi, I’m @francklays
-- 🍞 I’m training as a baker
-- 🌦 I’m interested in data
-- 💬 How to reach me ...
+- Hi there 👋
 
 <!---
 francklays/francklays is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
